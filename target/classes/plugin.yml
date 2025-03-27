@@ -1,0 +1,4 @@
+name: Framework
+version: '1.0'
+main: nu.neonet.framework.Framework
+api-version: '1.21'
